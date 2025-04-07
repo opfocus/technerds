@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import GlobalNav from "#/ui/global-nav";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -25,9 +26,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`overflow-y-scroll pb-36 ${geistSans.variable} ${geistMono.variable} antialiased`}
       >
+        <GlobalNav />
+        <div className="w-full lg:pl-84 mt-14 mb-36 pr-12">
         {children}
+        </div>
       </body>
     </html>
   );

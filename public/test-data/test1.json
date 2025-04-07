@@ -1,0 +1,1187 @@
+{
+  "data": {
+    "repository": {
+      "discussions": {
+        "edges": [
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AfDo_",
+              "title": "[Miscellaneous] <Title>Unable to fetch gitcoin passport score",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/778",
+              "category": {
+                "name": "Feedback"
+              },
+              "createdAt": "2025-03-28T16:27:40Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "haiderkhan02"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-28T20:10:43Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AfCWO",
+              "title": "[Core Protocol] Are there system transactions in Optimism mainnet?",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/777",
+              "category": {
+                "name": "Core Protocol"
+              },
+              "createdAt": "2025-03-27T13:04:49Z",
+              "closedAt": "2025-03-28T18:20:50Z",
+              "answerChosenAt": "2025-03-28T09:36:00Z",
+              "answer": {
+                "author": {
+                  "login": "hash1go"
+                }
+              },
+              "author": {
+                "login": "alecalve"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "hash1go"
+                      },
+                      "createdAt": "2025-03-28T02:08:15Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "alecalve"
+                      },
+                      "createdAt": "2025-03-28T08:35:24Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AfACY",
+              "title": "[OP Stack Deployment] Receiving a \"no beacon endpoint is configured\" error when running op-node",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/775",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-25T10:32:03Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "zaguezzar"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-25T10:35:43Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae_-T",
+              "title": "[OP Stack Deployment] <unavailable miner_setMaxDASize RPC on OP-Geth>",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/774",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-25T09:25:11Z",
+              "closedAt": "2025-03-28T18:26:12Z",
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "iujiban"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-26T14:07:12Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae-y8",
+              "title": "[OP Stack Deployment] <Unable to fetch unsafeBlockSigner from SystemConfig>",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/773",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-24T07:13:45Z",
+              "closedAt": "2025-03-28T18:28:34Z",
+              "answerChosenAt": "2025-04-02T09:31:48Z",
+              "answer": {
+                "author": {
+                  "login": "opfocus"
+                }
+              },
+              "author": {
+                "login": "iujiban"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "iujiban"
+                      },
+                      "createdAt": "2025-03-24T09:55:58Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-26T14:11:25Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae8oY",
+              "title": "[OP Stack Deployment] failed to create new block via forkchoice: unrecognized rpc error: Unsupported fork",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/770",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-21T07:35:47Z",
+              "closedAt": "2025-03-25T13:05:12Z",
+              "answerChosenAt": "2025-03-24T06:36:50Z",
+              "answer": {
+                "author": {
+                  "login": "Chomtana"
+                }
+              },
+              "author": {
+                "login": "Kidkender"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-21T07:44:02Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Chomtana"
+                      },
+                      "createdAt": "2025-03-23T11:27:15Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae7f4",
+              "title": "[Core Protocol] <Feasibility and SOP for Adding Custom Predeploy Contract on OP Stack>",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/769",
+              "category": {
+                "name": "General"
+              },
+              "createdAt": "2025-03-20T07:22:02Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "HaoHaoLifeHack"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-21T16:18:33Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "joohhnnn"
+                      },
+                      "createdAt": "2025-03-22T16:30:03Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Chomtana"
+                      },
+                      "createdAt": "2025-03-23T14:36:10Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae6Yl",
+              "title": "[OP Stack Deployment] Need help with deploy custom L2 network on custom L1",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/768",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-19T10:55:11Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "chiphamskymavis"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-20T14:48:17Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "dzung-rise"
+                      },
+                      "createdAt": "2025-03-24T00:05:39Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae53s",
+              "title": "[OP Stack Deployment] Deploy chain with Alt-DA + L2OutputOracle (fault proofs disabled)  op-contracts/v1.8.0 op-deployer/v0.0.13",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/767",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-19T01:28:22Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "seromenho"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-19T16:54:25Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae5Ar",
+              "title": "[Node Operator Question] Node syncing but consistently ~2200 blocks behind",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/766",
+              "category": {
+                "name": "Node Operators"
+              },
+              "createdAt": "2025-03-18T11:40:09Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "Incede"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "jsvisa"
+                      },
+                      "createdAt": "2025-03-18T12:36:34Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae4wk",
+              "title": "Web3 cell",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/765",
+              "category": {
+                "name": "Ideas"
+              },
+              "createdAt": "2025-03-18T07:31:04Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "Nichebiche"
+              },
+              "comments": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae4rs",
+              "title": "[General] How equivalence does op-geth have?",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/764",
+              "category": {
+                "name": "General"
+              },
+              "createdAt": "2025-03-18T05:47:48Z",
+              "closedAt": "2025-03-28T10:44:31Z",
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "realtakahashi"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-18T06:02:12Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "hash1go"
+                      },
+                      "createdAt": "2025-03-18T13:16:40Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "realtakahashi"
+                      },
+                      "createdAt": "2025-03-18T22:40:53Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "middleground1765"
+                      },
+                      "createdAt": "2025-03-21T11:07:19Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Ae1ai",
+              "title": "[OP Stack Deployment] Deploy my own fork of the op-contracts/v1.8.0 using op-deployer v0.0.13",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/763",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-14T15:54:27Z",
+              "closedAt": "2025-04-01T02:21:29Z",
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "seromenho"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-14T16:05:48Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-14T17:46:34Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-28T18:48:39Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AezIT",
+              "title": "[Feedback] Slow Token List Additions",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/762",
+              "category": {
+                "name": "Feedback"
+              },
+              "createdAt": "2025-03-12T20:36:23Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "onchainguy-btc"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-13T03:27:49Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AezEB",
+              "title": "[OP Stack Deployment] Recommended Versions for `op-contracts` and `op-deployer` in new chain deployment",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/761",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-12T19:31:14Z",
+              "closedAt": "2025-03-14T16:44:22Z",
+              "answerChosenAt": "2025-03-14T16:54:55Z",
+              "answer": {
+                "author": {
+                  "login": "opfocus"
+                }
+              },
+              "author": {
+                "login": "seromenho"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-13T18:35:06Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-14T13:24:00Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AeynZ",
+              "title": "[OP Stack Deployment] how to change the proxy contract address of a logic contract that has already been deployed with proxyAdmin and Proxy contracts",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/760",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-12T13:59:28Z",
+              "closedAt": "2025-03-17T14:17:58Z",
+              "answerChosenAt": "2025-03-17T14:16:36Z",
+              "answer": {
+                "author": {
+                  "login": "Chomtana"
+                }
+              },
+              "author": {
+                "login": "theo-learner"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Chomtana"
+                      },
+                      "createdAt": "2025-03-13T03:04:30Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Chomtana"
+                      },
+                      "createdAt": "2025-03-13T03:13:28Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-13T18:37:04Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AeyYT",
+              "title": "[OP Stack Deployment] Proxyd header forwarding",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/759",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-12T09:55:09Z",
+              "closedAt": "2025-03-17T13:29:58Z",
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "srounce"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "hash1go"
+                      },
+                      "createdAt": "2025-03-12T12:45:20Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Chomtana"
+                      },
+                      "createdAt": "2025-03-14T17:25:18Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-17T13:31:09Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Aewlb",
+              "title": "[OP Stack Deployment]  how to solve p2p failed?",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/758",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-11T02:27:00Z",
+              "closedAt": "2025-03-11T15:35:03Z",
+              "answerChosenAt": "2025-03-11T15:34:54Z",
+              "answer": {
+                "author": {
+                  "login": "Chomtana"
+                }
+              },
+              "author": {
+                "login": "cuiweixie"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-11T09:29:03Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Chomtana"
+                      },
+                      "createdAt": "2025-03-11T09:50:57Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AevFS",
+              "title": "[Node Operator Question] Unable to access port 8545 on my local optimism sepolia node",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/757",
+              "category": {
+                "name": "Node Operators"
+              },
+              "createdAt": "2025-03-09T13:41:20Z",
+              "closedAt": "2025-03-11T02:22:13Z",
+              "answerChosenAt": "2025-03-10T21:30:22Z",
+              "answer": {
+                "author": {
+                  "login": "geewynn"
+                }
+              },
+              "author": {
+                "login": "geewynn"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-09T13:51:36Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AeuMH",
+              "title": "[OP Stack Deployment] op-node cannot sync L1 data",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/756",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-08T06:52:27Z",
+              "closedAt": "2025-03-12T09:22:37Z",
+              "answerChosenAt": "2025-03-12T09:22:33Z",
+              "answer": {
+                "author": {
+                  "login": "Chomtana"
+                }
+              },
+              "author": {
+                "login": "DavidCoder88"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "DavidCoder88"
+                      },
+                      "createdAt": "2025-03-08T06:52:57Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-08T07:25:40Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Chomtana"
+                      },
+                      "createdAt": "2025-03-08T09:07:29Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-09T13:29:29Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-11T09:37:16Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AetD8",
+              "title": "[General] <Can I use the Holesky testnet connect the Op Sepolia testnet??>",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/755",
+              "category": {
+                "name": "General"
+              },
+              "createdAt": "2025-03-07T00:19:52Z",
+              "closedAt": null,
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "Guan21"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Guan21"
+                      },
+                      "createdAt": "2025-03-07T02:12:17Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "jsvisa"
+                      },
+                      "createdAt": "2025-03-08T05:17:35Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Guan21"
+                      },
+                      "createdAt": "2025-03-10T04:37:56Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AesVW",
+              "title": "[OP Stack Deployment] Withdrawal of ERC20 token from L2",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/754",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-06T09:10:10Z",
+              "closedAt": "2025-03-17T13:26:32Z",
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "tiagorvmartins"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-06T11:24:35Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-07T17:33:19Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-17T09:38:47Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Aeqks",
+              "title": "[OP Stack Deployment] <Apple M4 error when deploying new rollup>",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/753",
+              "category": {
+                "name": "Deploying the OP Stack"
+              },
+              "createdAt": "2025-03-04T15:06:53Z",
+              "closedAt": "2025-03-10T00:44:04Z",
+              "answerChosenAt": "2025-03-09T14:29:30Z",
+              "answer": {
+                "author": {
+                  "login": "zapper-95"
+                }
+              },
+              "author": {
+                "login": "zapper-95"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-04T15:33:38Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "zapper-95"
+                      },
+                      "createdAt": "2025-03-09T14:25:28Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AeqfZ",
+              "title": "[Application Development] Websockets not working for Interop RPCs",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/752",
+              "category": {
+                "name": "Application Development"
+              },
+              "createdAt": "2025-03-04T13:46:43Z",
+              "closedAt": "2025-03-06T11:25:09Z",
+              "answerChosenAt": "2025-03-06T11:25:06Z",
+              "answer": {
+                "author": {
+                  "login": "imtipi"
+                }
+              },
+              "author": {
+                "login": "ameeshaagrawal"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-04T13:53:08Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-05T17:07:17Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AeqSj",
+              "title": "[Node Operator Question] <Cannot deposit ETH to L2 in a local development environment>",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/751",
+              "category": {
+                "name": "Node Operators"
+              },
+              "createdAt": "2025-03-04T10:08:08Z",
+              "closedAt": "2025-03-06T05:39:53Z",
+              "answerChosenAt": "2025-03-06T05:39:47Z",
+              "answer": {
+                "author": {
+                  "login": "jsvisa"
+                }
+              },
+              "author": {
+                "login": "Guan21"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "jsvisa"
+                      },
+                      "createdAt": "2025-03-04T10:43:14Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AeqBY",
+              "title": "[Feedback] <How about fix the command in Tutorials(Creating your own rollup testnet)>",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/750",
+              "category": {
+                "name": "Feedback"
+              },
+              "createdAt": "2025-03-04T04:33:52Z",
+              "closedAt": "2025-03-05T17:52:42Z",
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "Guan21"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-04T08:17:49Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-05T17:52:32Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AepaF",
+              "title": "[Miscellaneous] Requesting substantial OP sepolia ETH",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/749",
+              "category": {
+                "name": "Miscellaneous"
+              },
+              "createdAt": "2025-03-03T14:37:43Z",
+              "closedAt": "2025-03-03T17:41:23Z",
+              "answerChosenAt": "2025-03-03T16:46:20Z",
+              "answer": {
+                "author": {
+                  "login": "imtipi"
+                }
+              },
+              "author": {
+                "login": "ga-reth"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "imtipi"
+                      },
+                      "createdAt": "2025-03-03T14:51:03Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Aemav",
+              "title": "[Core Protocol] Transaction shows “not found” for several minutes, then appears",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/745",
+              "category": {
+                "name": "Core Protocol"
+              },
+              "createdAt": "2025-02-27T18:28:23Z",
+              "closedAt": "2025-03-04T13:44:48Z",
+              "answerChosenAt": "2025-03-04T13:44:37Z",
+              "answer": {
+                "author": {
+                  "login": "Chomtana"
+                }
+              },
+              "author": {
+                "login": "brankovitorovic"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "Chomtana"
+                      },
+                      "createdAt": "2025-02-27T18:36:33Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "brankovitorovic"
+                      },
+                      "createdAt": "2025-02-27T19:37:37Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-03-02T17:39:46Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4Aeky6",
+              "title": "[Core Protocol] using L2OO model, what should I do  when fault happens?",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/744",
+              "category": {
+                "name": "Core Protocol"
+              },
+              "createdAt": "2025-02-26T09:04:36Z",
+              "closedAt": "2025-03-08T12:25:57Z",
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "cuiweixie"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "cuiweixie"
+                      },
+                      "createdAt": "2025-02-26T09:45:12Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-02-28T15:33:19Z"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "id": "D_kwDOKSrOgc4AekjC",
+              "title": "[Node Operator Question] `eth_getBlockByNumber \"params\": [\"finalized\", true]` Return block height not updating issue",
+              "url": "https://github.com/ethereum-optimism/developers/discussions/743",
+              "category": {
+                "name": "Node Operators"
+              },
+              "createdAt": "2025-02-26T02:56:22Z",
+              "closedAt": "2025-03-08T12:20:06Z",
+              "answerChosenAt": null,
+              "answer": null,
+              "author": {
+                "login": "rayn316"
+              },
+              "comments": {
+                "edges": [
+                  {
+                    "node": {
+                      "author": {
+                        "login": "hash1go"
+                      },
+                      "createdAt": "2025-02-26T07:49:45Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "rayn316"
+                      },
+                      "createdAt": "2025-02-26T07:54:29Z"
+                    }
+                  },
+                  {
+                    "node": {
+                      "author": {
+                        "login": "opfocus"
+                      },
+                      "createdAt": "2025-02-27T19:43:12Z"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
