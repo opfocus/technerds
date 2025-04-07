@@ -80,7 +80,7 @@ function PieChart() {
                 fill={color(d.data.name)}
                 d={arc(d)!}
                 className="transition-all duration-300 ease-out hover:opacity-80"
-                onMouseEnter={(e) =>
+                onMouseEnter={() =>
                   setTooltip({
                     x: x + width / 2,
                     y: y + height / 2,
