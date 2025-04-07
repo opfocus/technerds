@@ -37,7 +37,7 @@ function PieChart() {
   if (dataFetch !== undefined) {
     dataFetch.data.repository.discussions.edges.forEach((item) => {
       if (dataMap.has(item.node.category.name)) {
-        let value = dataMap.get(item.node.category.name);
+        const value = dataMap.get(item.node.category.name);
         dataMap.set(item.node.category.name, value + 1);
       } else {
         dataMap.set(item.node.category.name, 1);

@@ -47,7 +47,7 @@ const mergeData = (data: dataProps[]): dataProps[] => {
     }
   });
 
-  return Array.from(grouped, ([date, { sum, count }]) => ({
+  return Array.from(grouped, ([date, { sum}]) => ({
     date: new Date(date),
     close: sum , 
   }));

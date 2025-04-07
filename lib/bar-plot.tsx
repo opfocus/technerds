@@ -32,7 +32,6 @@ export default function Bar() {
     }
   >();
 
-  let data: DataItem[] | undefined;
   const weeks = {
     week1: {
       start: new Date("2025-03-03"),
@@ -70,44 +69,44 @@ export default function Bar() {
     });
   if (dataFetch !== undefined) {
     dataFetch.data.repository.discussions.edges.forEach((item) => {
-      let createdAt = new Date(item.node.createdAt!.slice(0, 10));
-      let closedAt = new Date(
+      const createdAt = new Date(item.node.createdAt!.slice(0, 10));
+      const closedAt = new Date(
         item.node.closedAt ? item.node.closedAt.slice(0, 10) : ""
       );
 
       if (createdAt > weeks.week4.end) {
       } else if (createdAt > weeks.week3.end) {
-        let { created, closed } = dataMap.get(weeks.week4.end)!;
+        const { created, closed } = dataMap.get(weeks.week4.end)!;
         dataMap.set(weeks.week4.end, { created: created + 1, closed: closed });
       } else if (createdAt > weeks.week2.end) {
-        let { created, closed } = dataMap.get(weeks.week3.end)!;
+        const { created, closed } = dataMap.get(weeks.week3.end)!;
         dataMap.set(weeks.week3.end, { created: created + 1, closed: closed });
       } else if (createdAt > weeks.week1.end) {
-        let { created, closed } = dataMap.get(weeks.week2.end)!;
+        const { created, closed } = dataMap.get(weeks.week2.end)!;
         dataMap.set(weeks.week2.end, { created: created + 1, closed: closed });
       } else if (createdAt >= weeks.week1.start) {
-        let { created, closed } = dataMap.get(weeks.week1.end)!;
+        const { created, closed } = dataMap.get(weeks.week1.end)!;
         dataMap.set(weeks.week1.end, { created: created + 1, closed: closed });
       } else {
       }
       if (closedAt > weeks.week4.end) {
       } else if (closedAt > weeks.week3.end) {
-        let { created, closed } = dataMap.get(weeks.week4.end)!;
+        const { created, closed } = dataMap.get(weeks.week4.end)!;
         dataMap.set(weeks.week4.end, { created: created, closed: closed + 1 });
       } else if (closedAt > weeks.week2.end) {
-        let { created, closed } = dataMap.get(weeks.week3.end)!;
+        const { created, closed } = dataMap.get(weeks.week3.end)!;
         dataMap.set(weeks.week3.end, {
           created: created,
           closed: closed + 1,
         });
       } else if (closedAt >= weeks.week1.end) {
-        let { created, closed } = dataMap.get(weeks.week2.end)!;
+        const { created, closed } = dataMap.get(weeks.week2.end)!;
         dataMap.set(weeks.week2.end, {
           created: created,
           closed: closed + 1,
         });
       } else if (closedAt >= weeks.week1.start) {
-        let { created, closed } = dataMap.get(weeks.week1.end)!;
+        const { created, closed } = dataMap.get(weeks.week1.end)!;
         dataMap.set(weeks.week1.end, {
           created: created,
           closed: closed + 1,
@@ -115,7 +114,7 @@ export default function Bar() {
       }
     });
   }
-  data = Array.from(dataMap, ([key, num]) => ({
+  const data = Array.from(dataMap, ([key, num]) => ({
     Date: key.toISOString().slice(6, 10),
     Closed: num.closed,
     Created: num.created,
@@ -200,7 +199,7 @@ export default function Bar() {
                   width={subX.bandwidth()}
                   height={y(0) - y(value)}
                   fill={group === "Closed" ? "steelblue" : "orange"}
-                  onMouseEnter={(e) =>
+                  onMouseEnter={() =>
                     setTooltip({
                       x: x(d.Date)! + subX(group)! + subX.bandwidth() / 2,
                       y: y(value) - 10,
